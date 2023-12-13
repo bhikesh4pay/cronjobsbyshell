@@ -1,4 +1,4 @@
-# Shell Script to Create and replace cron jobs for ease use
+# Shell Script to create and replace cron jobs for ease use
 
 This is created for the 4PAY developers to ease their tasks. 
 
