@@ -4,6 +4,8 @@ This is created for the 4PAY developers to ease their tasks.
 
 To run: 
 
-git clone <gitrepo>
-cd gitrepo
-sh something.sh
+git clone https://github.com/bhikesh4pay/cronjobsbyshell.git <br/>
+<br/>
+cd cronjobsbyshell <br/>
+<br/>
+sh cronconfig.sh 
